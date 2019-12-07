@@ -1,5 +1,8 @@
 body {
+  font-family: 'Source Code Pro', monospace;
   background-color: #0f0f23;
-  font-size: 14pt;
+  font-size: 14px;
   min-width: 60em;
+  color: #00cc00;
+  text-shadow: 0 0 2px #00cc00, 0 0 5px #00cc00;
 }
